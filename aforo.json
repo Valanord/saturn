@@ -766,5 +766,28 @@
     ],
     "fuente": "DeporSite obtenerOcupacion",
     "url": "https://esportsgava.deporsite.net/ocupacion-aforo"
+  },
+  {
+    "timestampUtc": "2026-08-31T08:30:50.934Z",
+    "fechaLocal": "2026-08-31",
+    "horaLocal": "10:30:50",
+    "diaSemana": "lunes",
+    "zonaHoraria": "Europe/Madrid",
+    "recinto": "La Bobila",
+    "idRecinto": 3,
+    "ocupacion": 48,
+    "aforoApi": 100,
+    "porcentajeSobreAforoApi": 48,
+    "porcentajeWeb": 55,
+    "aforoEfectivoEstimado": 87.3,
+    "entradas": 84,
+    "salidas": 36,
+    "textoPantallaBobila": "55%\nPiscina Can Tintorer\n \n0%\nNova Piscina\n \nAforo\nCompleto\nLa Bobila",
+    "porcentajesPantalla": [
+      "55%",
+      "0%"
+    ],
+    "fuente": "DeporSite obtenerOcupacion",
+    "url": "https://esportsgava.deporsite.net/ocupacion-aforo"
   }
 ]
