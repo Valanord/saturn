@@ -744,5 +744,27 @@
     ],
     "fuente": "DeporSite obtenerOcupacion",
     "url": "https://esportsgava.deporsite.net/ocupacion-aforo"
+  },
+  {
+    "timestampUtc": "2026-08-31T08:01:00.990Z",
+    "fechaLocal": "2026-08-31",
+    "horaLocal": "10:01:00",
+    "diaSemana": "lunes",
+    "zonaHoraria": "Europe/Madrid",
+    "recinto": "La Bobila",
+    "idRecinto": 3,
+    "ocupacion": 36,
+    "aforoApi": 100,
+    "porcentajeSobreAforoApi": 36,
+    "porcentajeWeb": 80,
+    "aforoEfectivoEstimado": 45,
+    "entradas": 63,
+    "salidas": 27,
+    "textoPantallaBobila": "80%\nLa Bobila",
+    "porcentajesPantalla": [
+      "80%"
+    ],
+    "fuente": "DeporSite obtenerOcupacion",
+    "url": "https://esportsgava.deporsite.net/ocupacion-aforo"
   }
 ]
